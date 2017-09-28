@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Permanent+Marker');
+
+body {
+  background-color: #f7f7f7;
+}
+
+header {
+  font-family: 'Permanent Marker', cursive;
+  color: #db0000;
+  border: 5px solid #727272;
+  margin: 30px 150px;
+  padding: 0px;
+  background-color: #e0e0e0;
+}
+
+header h1 {
+  text-align: center;
+  font-size: 55px;
+  text-shadow: 3px 3px #000000;
+
+}
+
+h2 {
+  text-align: center;
+}
+
+#image1 {
+  position: absolute;
+  top: 30px;
+ }
+
+#image2 {
+  position: absolute;
+  
+}
+
+
+article {
+  display: block;
+  margin: auto;
+  width: 45%;
+  font-family: 'Permanent Marker', cursive;
+}
+
+
+section {
+  background-color: #e5e5e5;
+  border: 2px solid #727272;
+  margin: 0px 500px;
+  height: 900px;
+  overflow: scroll;
+}
+
+footer {
+  text-align: center;
+  border: 2px solid #727272;
+  background-color: #e0e0e0;
+  margin: 30px 150px;
+  font-family: 'Permanent Marker', cursive;
+  padding: 10px 20px 0px 20px;
+}
+
+footer img {
+  margin: 0px 20px;
+}
+
+footer p {
+  color: #db0000;
+  font-size: 25px;
+  text-shadow: 1px 1px #000000;
+}
+
